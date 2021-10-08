@@ -4,7 +4,7 @@ export geom_r_h, io_r_h, libqhull_r, libqhull_r_h, mem_r_h, merge_r_h, poly_r_h,
 JLLWrappers.@generate_wrapper_header("Qhull")
 JLLWrappers.@declare_file_product(geom_r_h)
 JLLWrappers.@declare_file_product(io_r_h)
-JLLWrappers.@declare_library_product(libqhull_r, "libqhull_r.so.8.0")
+JLLWrappers.@declare_library_product(libqhull_r, "libqhull_r.so.8.1")
 JLLWrappers.@declare_file_product(libqhull_r_h)
 JLLWrappers.@declare_file_product(mem_r_h)
 JLLWrappers.@declare_file_product(merge_r_h)
