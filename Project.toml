@@ -1,6 +1,6 @@
 name = "Qhull_jll"
 uuid = "784f63db-0788-585a-bace-daefebcd302b"
-version = "8.0.999+0"
+version = "8.0.1000+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
