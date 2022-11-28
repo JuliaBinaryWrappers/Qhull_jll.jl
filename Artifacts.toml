@@ -1,143 +1,143 @@
 [[Qhull]]
 arch = "aarch64"
-git-tree-sha1 = "eda75c636db90909f1f5be2e75ac8dfba87d85ae"
+git-tree-sha1 = "02e93ead25b2cc59d0c0a2770d52b3180f51d52d"
 os = "macos"
 
     [[Qhull.download]]
-    sha256 = "d8302ab6476555cb52ff43deee6ae59f01cbcdc8e1bbfdce2d41199228ea5200"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.aarch64-apple-darwin.tar.gz"
+    sha256 = "c4471f8400e227436b69caee5900f9f199c1fe5afc51619225b2dbb49cae766c"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.aarch64-apple-darwin.tar.gz"
 [[Qhull]]
 arch = "aarch64"
-git-tree-sha1 = "f435abb875d6d2fe7f8ea6fc2f72b4b9be49aeda"
+git-tree-sha1 = "ade7a3b24a8eb277ede96cea2ef70537acdb6667"
 libc = "glibc"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "8bdf26bddd3d8a5fffb89d8acf0a8ef31a6f7ebe4ba5ea0c999879dbef3f5d0b"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.aarch64-linux-gnu.tar.gz"
+    sha256 = "f5cd1e964fd52ec548d8c2a361f4611ec91f9512d069cecfbb2a63674ab79167"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.aarch64-linux-gnu.tar.gz"
 [[Qhull]]
 arch = "aarch64"
-git-tree-sha1 = "579c55dce9c091bc5d41fe28478c8768c7ad0feb"
+git-tree-sha1 = "d65b76acd9ee4fe65a5cb88862089db849292ed6"
 libc = "musl"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "f8a7daf97c3c8460531f02cd52d3b7eb71f4126a7f11ab7792e0655b82fe66ac"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.aarch64-linux-musl.tar.gz"
+    sha256 = "9132973a06fe3f099fa6209d002ccfbe54765f7bba538d5578d1ad63ffb419fc"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.aarch64-linux-musl.tar.gz"
 [[Qhull]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8611532c8bc87a98278d8fc6d4f75ea7983eb22a"
+git-tree-sha1 = "1197baaa2e9b9935a9dfc7a80ef6061bad6bf669"
 libc = "glibc"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "34bc8271b77aef1760d6cc92fda164ef5d8232229d2fbec769b7dbcf428e0506"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "8f08b26eb130a5519ee6a694987fb1cd67e33add7629e9be990dfe26d18a4e70"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.armv6l-linux-gnueabihf.tar.gz"
 [[Qhull]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3f0ccac4d3f7aec950de46f63031b3386aa4231f"
+git-tree-sha1 = "68c9a86d9a3185c02a4dae6da8a25b7f54bceb02"
 libc = "musl"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "0fee180871f5e60910421ece3a1dac689856acaac736a67143f66be2d9a03a2e"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "bc7bdfa2b6a431b2128bcd6416a940a3c2f1f43abbff30ed28e3f2cd95fb9af0"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.armv6l-linux-musleabihf.tar.gz"
 [[Qhull]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "83c759c76b4f809624f0fc7370a2e6ec3c797041"
+git-tree-sha1 = "da6726764abf4e5790dd5c73bbc8f749501bf06f"
 libc = "glibc"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "20027bb17ee1dc6a3eef01e885bed1d959c0a660fe9d2c4f98ab087d6509d3da"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "408e649b712579604ec005f519661c1695bff0e76136ba249dedf18dd909a7c3"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.armv7l-linux-gnueabihf.tar.gz"
 [[Qhull]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "265de29902b4b0309817da3b851fc4ff4114fa56"
+git-tree-sha1 = "ac1a88bb580e0f2142f5d597d44fc860d2bba0b9"
 libc = "musl"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "dbb48e45b5ed2c4a49a2031f737593af03f625d59d9ab395803971fcce1f8143"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "393a2ff238dccbb00afbff03ccd7d740dd8f78e7aca336b2fd0b752bf4547352"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.armv7l-linux-musleabihf.tar.gz"
 [[Qhull]]
 arch = "i686"
-git-tree-sha1 = "8084cb2fff8d4c7e948cf499f2b1e7c631609e98"
+git-tree-sha1 = "4fffa2d83f3edc5d1421293283bd6128d66c8c9c"
 libc = "glibc"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "75989f987a3e2699c75ac68b049bdbd649af2760c7c7009eb3ad2b8302d3d28d"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.i686-linux-gnu.tar.gz"
+    sha256 = "e3c04648ccfb532c38bbdd6c21c01db93e6a7d7a8e71d706a7a48f68ef6d66c9"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.i686-linux-gnu.tar.gz"
 [[Qhull]]
 arch = "i686"
-git-tree-sha1 = "bab613e40f4a59605b5afa1d357725f71476fdb4"
+git-tree-sha1 = "6aebb2cf35b057858065926eea28c21f403f053f"
 libc = "musl"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "7ddb4c5d6333323846b1711b2be7323959447defd5171f403021c392c46ea2ee"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.i686-linux-musl.tar.gz"
+    sha256 = "e431faffa6632ca8a93f89a6b7213a78e01ef025e345a886114f1fc36530c7e4"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.i686-linux-musl.tar.gz"
 [[Qhull]]
 arch = "i686"
-git-tree-sha1 = "955685ba25ec1e4301424d4b8f8f17b2eda4454d"
+git-tree-sha1 = "35c02b8f31f2fcc82273992be51e1793c77e5150"
 os = "windows"
 
     [[Qhull.download]]
-    sha256 = "c3dde9aae332897cad3345f65c222685898953c1ce674788344f58c12ec904ea"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.i686-w64-mingw32.tar.gz"
+    sha256 = "0db424d630d1d0f26b23bfef1fbc3b30e3c6b946bc6bddfbe0df1a972da30421"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.i686-w64-mingw32.tar.gz"
 [[Qhull]]
 arch = "powerpc64le"
-git-tree-sha1 = "d625d5cb5944a08e94deeaa5d9b3f6b661c3e34b"
+git-tree-sha1 = "56e50a93a7320b32f7f817a04d99e4f6b370d23f"
 libc = "glibc"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "559e4ca445365d3a3b4b6d039b103f646fafc56adc1b1120315b5c76cb13874c"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "34c1abec4c0b45003604402540f490710456f2fdeaf48ecb72b0cf363dc7c483"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.powerpc64le-linux-gnu.tar.gz"
 [[Qhull]]
 arch = "x86_64"
-git-tree-sha1 = "7dca8825bb65b412064aa8ea96bfc9f9369a137a"
+git-tree-sha1 = "d6c1a920c794391ae210777b5442e9fdf989ef2d"
 os = "macos"
 
     [[Qhull.download]]
-    sha256 = "f488de34373482ea736317fc94c43b317320b5be1846e554ced315654a446cdc"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.x86_64-apple-darwin.tar.gz"
+    sha256 = "ec04014059ce0f1f1f84c1941d3664e6c1b77b8275ec69197797a1eb14b5ebfa"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.x86_64-apple-darwin.tar.gz"
 [[Qhull]]
 arch = "x86_64"
-git-tree-sha1 = "d25d83a1ed9a15076c69b0de53fcf0a9b12b5393"
+git-tree-sha1 = "a0d525546a1895fa7212e5b6cf3229f874282792"
 libc = "glibc"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "03a854f3915b497d3525a78972eb5bdeb1ea9233691c75354f50a80510466420"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.x86_64-linux-gnu.tar.gz"
+    sha256 = "b346d5058ae3227155fe0fcd08334d63b97e23b81b9e682d1d9682e460a28f14"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.x86_64-linux-gnu.tar.gz"
 [[Qhull]]
 arch = "x86_64"
-git-tree-sha1 = "dfe81d0dccb68981c3c82f60ba69552577ac69f5"
+git-tree-sha1 = "99fb2dbd4ac4b767dda53471078030aaae33ae20"
 libc = "musl"
 os = "linux"
 
     [[Qhull.download]]
-    sha256 = "9a166a89558a36178747b885cfd185888c3b1623451f4acf7d3baeae58460ac1"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.x86_64-linux-musl.tar.gz"
+    sha256 = "2cbe859ba742d4efef001bb255f2dab9bb452c960e4e1f48bc099e2461156e49"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.x86_64-linux-musl.tar.gz"
 [[Qhull]]
 arch = "x86_64"
-git-tree-sha1 = "80fdd7e48e2369f478eb7234d02050e78940213c"
+git-tree-sha1 = "2a28ee19c9568222ac37b0a5c6c1d2ceae9b9687"
 os = "freebsd"
 
     [[Qhull.download]]
-    sha256 = "120a857c6a2dddc63bbe850272f44095ccc020bbd94f8f898258fa8dbe7ebb23"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6e71e2b1b140da1bbbd7b8c8c704ec95cdb0e3bdcecc9aba783dcece398b05bf"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.x86_64-unknown-freebsd.tar.gz"
 [[Qhull]]
 arch = "x86_64"
-git-tree-sha1 = "92a54657cb75077825f04924f2cb822e9de4149e"
+git-tree-sha1 = "ec6c64a72eed735d7106cc67d1816f5677156134"
 os = "windows"
 
     [[Qhull.download]]
-    sha256 = "335e1c5bd465215cffd664c5a44e112af4e469385a4888d8e606657abcadc803"
-    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1000+0/Qhull.v8.0.1000.x86_64-w64-mingw32.tar.gz"
+    sha256 = "49ce48ea9aa3784e1fd0f400d3a3beaa748df8b7ed969daf7a31d8e2f2e35048"
+    url = "https://github.com/JuliaBinaryWrappers/Qhull_jll.jl/releases/download/Qhull-v8.0.1001+0/Qhull.v8.0.1001.x86_64-w64-mingw32.tar.gz"
